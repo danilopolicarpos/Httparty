@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Nome Teste",
+      "cpf": "123.456.789-0",
+      "endereco": "Rua Teste dos teste",
+      "usuario": "usuario",
+      "senha": "senha"
+    },
+    {
+      "nome": "Danilo",
+      "cpf": "0123.456.689-2",
+      "endereco": "Rua Teste dos teste 3",
+      "usuario": "Danilo",
+      "senha": "1234567",
+      "id": 2
+    }
+  ]
+}

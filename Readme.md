@@ -5,11 +5,16 @@ Abra o terminal e execute o comando abaixo :
 bundle install      
 ```
 
-Vamos rodar o servidor Json-server:
-
+Vamos instalar  o servidor Json-server:
 ```
 npm install -g json-server
 ```
+Agora vamos rodar o servidor Json-Server:
+
+```
+json-server --watch endpoints.json
+````
+
 O resultado será esse: 
 ```
 \{^_^}/ hi!

@@ -42,4 +42,4 @@ cucumber
 ```
 
 ## Referências
-Acesso o github do <a href="https://github.com/danilopolicarpos/Appium-android">thiagomarquessp/httpartyforall</a>
+Acesso o github do <a href="https://github.com/thiagomarquessp/httpartyforall">thiagomarquessp/httpartyforall</a>
